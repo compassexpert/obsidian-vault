@@ -1,0 +1,12 @@
+{
+  "obsidianVersion": "1.8.9",
+  "baseFontSize": 16,
+  "theme": "obsidian",
+  "accentColor": "#8b5cf6",
+  "showLineNumber": true,
+  "spellcheck": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Заметки",
+  "attachmentFolderPath": "Вложения",
+  "alwaysUpdateLinks": true
+}

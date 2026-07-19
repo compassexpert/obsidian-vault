@@ -1,0 +1,4 @@
+{
+  "enabled": true,
+  "plugins": ["file-explorer", "search", "outline", "tag-pane", "graph", "backlinks", "command-palette", "markdown-importer", "word-count", "slides", "audio-recorder", "open-with-default-app"]
+}

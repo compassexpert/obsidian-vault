@@ -1,0 +1,10 @@
+version: repository-authority.v1
+repository: compassexpert/obsidian-vault
+status: SOURCE_ONLY_OUTSIDE_PRODUCTION_AUTHORITY
+portfolio_authority:
+  repo: compassexpert/compass-core
+current_production_allowed: false
+harvest_destination:
+  - compassexpert/compass-core
+rule: DO_NOT_USE_AS_CURRENT_AUTHORITY
+note: "Personal/knowledge source vault. May provide source material but does not define production authority."
